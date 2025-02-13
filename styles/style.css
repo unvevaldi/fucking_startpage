@@ -103,13 +103,7 @@ body {
     font-weight: 600;
 }
 
-.card_3 {
-    grid-area: card_3;
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-    justify-content: center;
-}
+
 
 .search {
     position: relative;
